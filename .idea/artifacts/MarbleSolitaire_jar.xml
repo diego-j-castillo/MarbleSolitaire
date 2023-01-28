@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="MarbleSolitaire:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MarbleSolitaire_jar</output-path>
-    <root id="archive" name="MarbleSolitaire.jar">
-      <element id="module-output" name="MarbleSolitaire" />
-    </root>
-  </artifact>
-</component>
